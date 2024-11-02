@@ -58,6 +58,7 @@ I am a SysNetAdmin from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Redhat" alt="Redhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
+  <img src="https://vyos.io/_next/static/media/vyos.1aeb5bb0.svg" title="vyOS" alt="vyOS" width="40" height="40"/>&nbsp;
   <img src="https://www.freepnglogos.com/uploads/vmware-png-logo/vmware-administration-essentials-including-admin-png-logo--15.png" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
   <img src="https://imgs.search.brave.com/xSERK0T-EAka2RSxm_NGMJrWQa4TFdv-UlFzQWs8BEg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bnV0YW5peGJpYmxl/LmNvbS9pbWFnZXN2/My9udXRhbml4LWxv/Z28td2hpdGUtZGln/aXRhbC5wbmc" title="Nutanix" alt="Nutanix" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="Openstack" alt="Openstack" width="40" height="40"/>&nbsp;
@@ -75,6 +76,10 @@ I am a SysNetAdmin from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original.svg" title="Logstash" alt="Logstash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
+  <img src="https://www.zenetys.com/wp-content/uploads/2020/12/haproxy.png" title="HAproxy" alt="HAproxy" width="60" height="40"/>&nbsp;
+  <img src="https://geek-cookbook.funkypenguin.co.nz/images/keepalived.png" title="Keepalived" alt="Keepalived" width="60" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/images/large/2x/cisco-logo-transparent.png" title="Cisco" alt="Cisco" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/huawei-logo-png-transparent.png" title="Huawei" alt="Huawei" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -82,6 +87,7 @@ I am a SysNetAdmin from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="POstgresql" width="40" height="40"/>&nbsp;
