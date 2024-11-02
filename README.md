@@ -2,16 +2,16 @@
   <img src="https://amanthapa.com.np/img/logo/logo.png" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/thepercyj">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/@thepercyj">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://x.com/thepercyj">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=thepercyj&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=thepercyj&style=flat-square&color=red" alt=""/>
   <h1>
     Yolo
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -28,13 +28,15 @@
 
 ### About Me :
 I am a SysNetAdmin from Nepal.  
-- :telescope: I’m working as freelance consultant on any business needs that require IT as their backbone.
-
-- :seedling: Exploring a new project on reversible programming, Side mission: Technical Content Writing in Progress :P.
-
-- :zap: During Leisure, I read tech articles, research on emerging technologies.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-thepercyj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thepercyj)
+- I’m working as freelance consultant on any business needs that require IT as their backbone.
+  
+- Currently, exploring unchartered domains of reversible programming check it out [Ulto](https://ulto.amanthapa.com.np)
+  
+- Side Mission: Technical Content Writing in Progress :P.
+  
+- During leisure: play games, binge anime, cooking, basketball, workout, youtube, doom scrolling, memes, read articles, research on emerging technologies etc etc.. you know the rest lmao.
+  
+- Grab some coffee ?:  [![Linkedin Badge](https://img.shields.io/badge/-thepercyj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thepercyj)
 
 ---
 <div align="center">
@@ -51,10 +53,10 @@ I am a SysNetAdmin from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Redhat" alt="Redhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vmware/vmware-original.svg" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nutanix/nutanix-original.svg" title="Nutanix" alt="Nutanix" width="40" height="40"/>&nbsp;
+  <img src="https://www.freepnglogos.com/uploads/vmware-png-logo/vmware-administration-essentials-including-admin-png-logo--15.png" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/xSERK0T-EAka2RSxm_NGMJrWQa4TFdv-UlFzQWs8BEg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bnV0YW5peGJpYmxl/LmNvbS9pbWFnZXN2/My9udXRhbml4LWxv/Z28td2hpdGUtZGln/aXRhbC5wbmc" title="Nutanix" alt="Nutanix" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="Openstack" alt="Openstack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/proxmox/proxmox-original.svg" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/4e9e0bf3fcd09d6557b4eaa8f790ec17599ed6e8eb37a7e78adaa30650c8a6e3/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f785f73796d626f6c5f7374616e646172645f6865782e706e67" title="Proxmox" alt="Proxmox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-plain.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain.svg" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
@@ -72,7 +74,7 @@ I am a SysNetAdmin from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -91,8 +93,20 @@ I am a SysNetAdmin from Nepal.
 <div align="center">
   
   ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thepercyj&theme=dark&background=000000)](https://git.io/streak-stats) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thepercyj&theme=dark&background=000000)](https://git.io/streak-stats)
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thepercyj&show_icons=true&theme=codeSTACKr" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepercyj&layout=donut&theme=codeSTACKr&card_width=320" />
+  </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepercyj&layout=compact&theme=vision-friendly-dark)](https://github.com/thepercyj/github-readme-stats)
+  <br>
+  <br>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=thepercyj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
 </div>
+
 ---
