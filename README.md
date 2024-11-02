@@ -22,8 +22,13 @@
 </div>
 
 ---
+<div align="center">
+  
+### About Me
 
-### About Me :
+</div>
+<br>
+
 I am a SysNetAdmin from Nepal.  
 - I’m working as freelance consultant on any business needs that require IT as their backbone.
   
@@ -37,8 +42,13 @@ I am a SysNetAdmin from Nepal.
 
 ---
 
+<div align="center">
+  
+### Domains, Languages and Tools
 
-### Domains, Languages and Tools :
+</div>
+<br>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
