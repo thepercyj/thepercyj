@@ -18,13 +18,10 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYxdGwwNDFqYXljMmxlZTNwOWs5dnI3anR4cDk2ZmN3eHExOG1rbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BWbdU8nbidzOdHbUg9/giphy.webp" width="300" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM2M3FnbXJyZnA1cnF2MW9od293dXlqa3JudmlvYXNqODF3ZHg2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lX62THs1T9smDuRvJ/giphy.webp">
 </div>
 
 ---
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB5NXZoeWZ1ZjlxbnpmZHdzOWN4eXE4czIxdmFrc2djajd2OXZweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lWkqWj5OzADh0Ozt3e/giphy.webp">
-</div>
 
 ### About Me :
 I am a SysNetAdmin from Nepal.  
@@ -39,9 +36,7 @@ I am a SysNetAdmin from Nepal.
 - Grab some coffee ?:  [![Linkedin Badge](https://img.shields.io/badge/-thepercyj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thepercyj)
 
 ---
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWM2M3FnbXJyZnA1cnF2MW9od293dXlqa3JudmlvYXNqODF3ZHg2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lX62THs1T9smDuRvJ/giphy.webp">
-</div>
+
 
 ### :hammer_and_wrench: Domains, Languages and Tools :
 <div>
