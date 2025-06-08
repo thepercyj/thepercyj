@@ -30,11 +30,11 @@
 <br>
 
 I am an IT Expert from Nepal.  
-- I’m working as freelance consultant on any business needs that require IT as their backbone.
+- I’m working as a Technical Support Engineer at Hyve Managed Hosting and also as a freelance IT consultant on any business needs that require IT as their backbone.
   
 - Currently, exploring unchartered domains of reversible programming check it out [Ulto](https://ulto.amanthapa.com.np)
   
-- Side Mission: Technical Content Writing in Progress :P.
+- Side Mission: Technical Content Writing in Progress :P. Wandermin Project Coming Soon....
   
 - During leisure: play games, binge anime, cooking, basketball, workout, youtube, doom scrolling, memes, read articles, research on emerging technologies etc etc.. you know the rest lmao.
   
