@@ -29,7 +29,7 @@
 </div>
 <br>
 
-I am a SysNetAdmin from Nepal.  
+I am an IT Expert from Nepal.  
 - I’m working as freelance consultant on any business needs that require IT as their backbone.
   
 - Currently, exploring unchartered domains of reversible programming check it out [Ulto](https://ulto.amanthapa.com.np)
