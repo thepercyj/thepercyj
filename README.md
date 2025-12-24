@@ -116,7 +116,7 @@ I am an IT Expert from Nepal.
   <br>
   <br>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=thepercyj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-trophies.vercel.app/?username=thepercyj&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
   
 </div>
 
