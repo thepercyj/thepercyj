@@ -104,7 +104,7 @@ I am an IT Expert from Nepal.
 <div align="center">
   
   ### My Stats :
-  [![GitHub Streak](https://streak-stats.demolab.com?user=thepercyj&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streakstats.amanthapa.com.np?user=thepercyj&theme=dark)](https://git.io/streak-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thepercyj&show_icons=true&theme=codeSTACKr" />
