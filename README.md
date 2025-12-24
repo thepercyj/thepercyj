@@ -106,11 +106,11 @@ I am an IT Expert from Nepal.
   ### My Stats :
   [![GitHub Streak](https://streakstats.amanthapa.com.np?user=thepercyj&theme=dark)](https://git.io/streak-stats)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thepercyj&show_icons=true&theme=codeSTACKr" />
+  <a href="https://github.com/thepercyj/pj-git-readme-stats">
+    <img height=200 align="center" src="https://gitstats.amanthapa.com.np/api?username=thepercyj&show_icons=true&theme=codeSTACKr" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thepercyj&layout=donut&theme=codeSTACKr&card_width=320" />
+    <img height=200 align="center" src="https://gitstats.amanthapa.com.np/api/top-langs?username=thepercyj&layout=donut&theme=codeSTACKr&card_width=320" />
   </a>
   
   <br>
