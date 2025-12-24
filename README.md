@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://amanthapa.com.np/img/logo/logo.png" width="100"/>
+  <img src="https://amanthapa.com.np/static/img/logo/logo.png" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/thepercyj">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,8 +17,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center" style="height: 200px; width: 300px;">
-  <img src="https://imgs.search.brave.com/eTutW9LwhT5YlGX7zZGmCCcf7LfLpRKasRAQnCZLCbg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBiLzUy/LzI4LzBiNTIyODMw/NzAwNGY3NDFiY2Iz/NjAyNTBlMjI5Nzg3/LmpwZw">
+<div align="center">
+  <img style="height: 300px; width: 300px;" src="https://imgs.search.brave.com/eTutW9LwhT5YlGX7zZGmCCcf7LfLpRKasRAQnCZLCbg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBiLzUy/LzI4LzBiNTIyODMw/NzAwNGY3NDFiY2Iz/NjAyNTBlMjI5Nzg3/LmpwZw">
 </div>
 
 ---
@@ -34,9 +34,9 @@ I am an IT Expert from Nepal.
   
 - Currently, exploring unchartered domains of reversible programming check it out [Ulto](https://ulto.amanthapa.com.np)
   
-- Side Mission: Technical Content Writing in Progress :P. Wandermin Project Coming Soon....
+- Side Mission: Giving back knowledge accumulated over years for the next generation in this field. Wandermin Project intitiated Check it out [Wandermin](https://wandermin.com)
   
-- During leisure: play games, binge anime, cooking, basketball, workout, youtube, doom scrolling, memes, read articles, research on emerging technologies etc etc.. you know the rest lmao.
+- During Leisure: play games, binge anime, cooking, basketball, workout, youtube, doom scrolling, memes, read articles, research on emerging technologies etc etc.. you know the rest lmao.
   
 - Grab some coffee ?:  [![Linkedin Badge](https://img.shields.io/badge/-thepercyj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thepercyj)
 
@@ -58,7 +58,7 @@ I am an IT Expert from Nepal.
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="Redhat" alt="Redhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
-  <img src="https://vyos.io/_next/static/media/vyos.1aeb5bb0.svg" title="vyOS" alt="vyOS" width="40" height="40"/>&nbsp;
+  <img src="https://www.datocms-assets.com/103745/1746783399-vyos-logo.svg" title="vyOS" alt="vyOS" width="40" height="40"/>&nbsp;
   <img src="https://www.freepnglogos.com/uploads/vmware-png-logo/vmware-administration-essentials-including-admin-png-logo--15.png" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
   <img src="https://imgs.search.brave.com/xSERK0T-EAka2RSxm_NGMJrWQa4TFdv-UlFzQWs8BEg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bnV0YW5peGJpYmxl/LmNvbS9pbWFnZXN2/My9udXRhbml4LWxv/Z28td2hpdGUtZGln/aXRhbC5wbmc" title="Nutanix" alt="Nutanix" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg" title="Openstack" alt="Openstack" width="40" height="40"/>&nbsp;
